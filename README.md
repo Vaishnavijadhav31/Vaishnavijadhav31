@@ -1,4 +1,4 @@
-Hi 👋, I'm Vaishnavi Jadhav
+# Hi 👋, I'm Vaishnavi Jadhav
 # 💫 About Me:
 🔭 I’m currently working on my problem solving skills<br>🌱 I’m currently learning Data Structures and Algorithms<br>💬 Ask me about C++,Java,php<br>⚡ Fun fact: I love listening songs
 
